@@ -1,0 +1,8 @@
+.Cell {
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+.Cell-lit {
+  background-color: yellow;
+}

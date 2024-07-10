@@ -1,0 +1,17 @@
+.Board {
+  margin: 20px auto;
+  display: inline-block;
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+.Board td {
+  width: 40px;
+  height: 40px;
+}
+
+.Board-win {
+  font-size: 2em;
+  text-align: center;
+  margin-top: 20px;
+}
